@@ -1,0 +1,5 @@
+{
+    "port": "COM14",
+    "board": "arduino:avr:uno",
+    "sketch": "Arduino_programs\\test_connection\\test_transmit\\test_transmit.ino"
+}

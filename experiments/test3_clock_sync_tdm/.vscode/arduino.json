@@ -1,0 +1,5 @@
+{
+    "port": "COM16",
+    "board": "arduino:avr:uno",
+    "sketch": "Arduino_programs\\main_router\\main_router.ino"
+}
