@@ -92,7 +92,7 @@ arduino-cli core install arduino:avr
 │   │   ├── user1.py                 # User 1 Python script
 │   │   ├── user2.py                 # User 2 Python script
 │   │   └── user3.py                 # User 3 Python script
-│   └── debug/
+│   └── debug_needed/
 │       ├── tdm_address_timeout/     # Advanced TDM with addressing/timeout (WIP)
 │       └── broadcast_timestamp_tdm_address_timeout/  # WIP variant with timestamp broadcast
 ├── docs/
