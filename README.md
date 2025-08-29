@@ -1,4 +1,4 @@
-# Data Communications Final Project
+# Data Communications | LiFi Data Transmission
 
 A comprehensive implementation of serial communication protocols using Arduino microcontrollers, demonstrating single transceiver communication and Time Division Multiplexing (TDM) with clock synchronization.
 
